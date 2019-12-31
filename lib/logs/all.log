@@ -1,0 +1,439 @@
+2019-12-31 21:31:21 - INFO - 正在连接恢复./conf/userinfo.sql数据库
+2019-12-31 21:31:21 - INFO - 数据更新成功
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"success","token":"0d125f2b24934cd2a0838f0af1a2d7a6"}
+2019-12-31 21:31:21 - INFO - {'status': 200, 'msg': 'success', 'token': '0d125f2b24934cd2a0838f0af1a2d7a6'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"success","token":"365cfe05855a4accab5af16e1060a53c"}
+2019-12-31 21:31:21 - INFO - {'status': 200, 'msg': 'success', 'token': '365cfe05855a4accab5af16e1060a53c'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"success","token":"9581d475d08b4f8c8efbe000b4cc3914"}
+2019-12-31 21:31:21 - INFO - {'status': 200, 'msg': 'success', 'token': '9581d475d08b4f8c8efbe000b4cc3914'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"success","token":"ed510162809141d48fecbe05da037c65"}
+2019-12-31 21:31:21 - INFO - {'status': 200, 'msg': 'success', 'token': 'ed510162809141d48fecbe05da037c65'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"success","token":"57e46373196848dc80d51bb03526bf17"}
+2019-12-31 21:31:21 - INFO - {'status': 200, 'msg': 'success', 'token': '57e46373196848dc80d51bb03526bf17'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":201,"msg":"success"}
+2019-12-31 21:31:21 - INFO - {'status': 201, 'msg': 'success'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"恭喜您，登录成功","userid":"5"}
+2019-12-31 21:31:21 - INFO - {"status":202,"msg":"success"}
+2019-12-31 21:31:21 - INFO - {'status': 202, 'msg': 'success'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"用户已退出登录"}
+2019-12-31 21:31:21 - INFO - {"status":405,"msg":"非法请求"}
+2019-12-31 21:31:21 - INFO - {'status': 405, 'msg': '非法请求'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":405,"msg":"非法请求"}
+2019-12-31 21:31:21 - INFO - {'status': 405, 'msg': '非法请求'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":405,"msg":"非法请求"}
+2019-12-31 21:31:21 - INFO - {'status': 405, 'msg': '非法请求'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":405,"msg":"非法请求"}
+2019-12-31 21:31:21 - INFO - {'status': 405, 'msg': '非法请求'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"success","token":"524c9914fb8440f78ca2dd9cf07249e0"}
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"恭喜您，登录成功","userid":"5"}
+2019-12-31 21:31:21 - INFO - {'status': 200, 'msg': '恭喜您，登录成功', 'userid': '5'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":406,"msg":"用户已经在别处登录"}
+2019-12-31 21:31:21 - INFO - {'status': 406, 'msg': '用户已经在别处登录'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:21 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:21 - INFO - FAIL
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"用户已退出登录"}
+2019-12-31 21:31:21 - INFO - {"status":200,"msg":"success","token":"c10d5b33b0694bc1ad2f41b258daf5c8"}
+2019-12-31 21:31:21 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:21 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:21 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:21 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:21 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:21 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:21 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:22 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:22 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:22 - INFO - FAIL
+2019-12-31 21:31:22 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:22 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:22 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:22 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:22 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:22 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:22 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:22 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":402,"msg":"参数错误"}
+2019-12-31 21:31:22 - INFO - {'status': 402, 'msg': '参数错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"恭喜您，登录成功","userid":"5"}
+2019-12-31 21:31:22 - INFO - {'status': 200, 'msg': '恭喜您，登录成功', 'userid': '5'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"用户已退出登录"}
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"success","token":"4ea3c8efaa3d4ebfbb2a4a5ea0da2eb5"}
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"恭喜您，登录成功","userid":"5"}
+2019-12-31 21:31:22 - INFO - {'status': 200, 'msg': '恭喜您，登录成功', 'userid': '5'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"用户已退出登录"}
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"success","token":"b346cb5c87db481cab086506a39d2e11"}
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"用户已退出登录"}
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"success","token":"fe83911e05e8462ca40b521c4eca2464"}
+2019-12-31 21:31:22 - INFO - {"status":401,"msg":"用户名密码错误"}
+2019-12-31 21:31:22 - INFO - {'status': 401, 'msg': '用户名密码错误'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"用户已退出登录"}
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"success","token":"c371172895f84d8e818c52d1dc893006"}
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"注册成功"}
+2019-12-31 21:31:22 - INFO - {'status': 200, 'msg': '注册成功'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"恭喜您，登录成功","userid":"10"}
+2019-12-31 21:31:22 - INFO - {'status': 200, 'msg': '恭喜您，登录成功', 'userid': '10'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"查询成功","nickname":"测试账号","id":"10","describe":"这个账号，是一个测试注册的账号"}
+2019-12-31 21:31:22 - INFO - {'status': 200, 'msg': '查询成功', 'nickname': '测试账号', 'id': '10', 'describe': '这个账号，是一个测试注册的账号'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {'status': 200, 'msg': '查询成功', 'nickname': '测试账号', 'id': '10', 'describe': '这个账号，是一个测试注册的账号'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {'status': 200, 'msg': '查询成功', 'nickname': '测试账号', 'id': '10', 'describe': '这个账号，是一个测试注册的账号'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {'status': 200, 'msg': '查询成功', 'nickname': '测试账号', 'id': '10', 'describe': '这个账号，是一个测试注册的账号'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":200,"msg":"用户已退出登录"}
+2019-12-31 21:31:22 - INFO - {'status': 200, 'msg': '用户已退出登录'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {"status":405,"msg":"非法请求"}
+2019-12-31 21:31:22 - INFO - {'status': 405, 'msg': '非法请求'}
+2019-12-31 21:31:22 - INFO - PASS
+2019-12-31 21:31:22 - INFO - {'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '2019-12-31 21:31:21', 'endtime': '2019-12-31 21:31:22', 'casecount': '144', 'passrate': '98.61%', 'status': 'Fail'}
+2019-12-31 21:31:22 - INFO - {'mysqluser': 'root', 'mysqlpassword': 'xy123456', 'mysqlport': '3306', 'mysqlhost': '47.102.153.86', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '993843278@qq.com', 'pwd': 'zecwqixwjjpgbfej', 'mailto': '993843278@qq.com', 'mailcopy': "'2105411301@qq.com'", 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '\'<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>\''}
+2019-12-31 21:31:24 - INFO - 邮件发送成功
+2019-12-31 21:32:54 - INFO - 正在连接恢复./conf/userinfo.sql数据库
+2019-12-31 21:32:54 - INFO - 数据更新成功
+2019-12-31 21:33:05 - INFO - 正在连接恢复./conf/userinfo.sql数据库
+2019-12-31 21:33:05 - INFO - 数据更新成功
+2019-12-31 21:35:08 - INFO - 正在连接恢复./conf/userinfo.sql数据库
+2019-12-31 21:35:08 - INFO - 数据更新成功
+2019-12-31 21:35:08 - INFO - PASS
+2019-12-31 21:35:08 - INFO - PASS
+2019-12-31 21:35:08 - INFO - PASS
+2019-12-31 21:35:08 - INFO - PASS
+2019-12-31 21:35:08 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - FAIL
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:09 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - FAIL
+2019-12-31 21:35:10 - INFO - FAIL
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:10 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:11 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - FAIL
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:12 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - PASS
+2019-12-31 21:35:13 - INFO - {'runtype': 'SOAP', 'title': 'Webservice接口自动化报告', 'starttime': '2019-12-31 21:35:08', 'endtime': '2019-12-31 21:35:13', 'casecount': '363', 'passrate': '98.89%', 'status': 'Fail'}
+2019-12-31 21:35:13 - INFO - {'mysqluser': 'root', 'mysqlpassword': 'xy123456', 'mysqlport': '3306', 'mysqlhost': '47.102.153.86', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '993843278@qq.com', 'pwd': 'zecwqixwjjpgbfej', 'mailto': '993843278@qq.com', 'mailcopy': "'2105411301@qq.com'", 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '\'<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>\''}
+2019-12-31 21:35:15 - INFO - 邮件发送成功
+2019-12-31 21:49:25 - INFO - 正在连接恢复./conf/userinfo.sql数据库
+2019-12-31 21:49:25 - INFO - 数据更新成功
+2019-12-31 21:49:25 - INFO - PASS
+2019-12-31 21:49:25 - INFO - PASS
+2019-12-31 21:49:25 - INFO - PASS
+2019-12-31 21:49:25 - INFO - PASS
+2019-12-31 21:49:25 - INFO - PASS
+2019-12-31 21:49:25 - INFO - PASS
+2019-12-31 21:49:25 - INFO - PASS
+2019-12-31 21:49:25 - INFO - PASS
+2019-12-31 21:49:25 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - FAIL
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - PASS
+2019-12-31 21:49:26 - INFO - FAIL
+2019-12-31 21:49:26 - INFO - FAIL
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:27 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:28 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - FAIL
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:29 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - PASS
+2019-12-31 21:49:30 - INFO - {'runtype': 'SOAP', 'title': 'Webservice接口自动化报告', 'starttime': '2019-12-31 21:49:25', 'endtime': '2019-12-31 21:49:30', 'casecount': '363', 'passrate': '98.89%', 'status': 'Fail'}
+2019-12-31 21:49:30 - INFO - {'mysqluser': 'root', 'mysqlpassword': 'xy123456', 'mysqlport': '3306', 'mysqlhost': '47.102.153.86', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '993843278@qq.com', 'pwd': 'zecwqixwjjpgbfej', 'mailto': '993843278@qq.com', 'mailcopy': "'2105411301@qq.com'", 'mailtitle': "'自动化测试报告'", 'mail_encoding': 'utf8', 'mailtxt': '\'<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.741.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自阿里巴巴自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=993843278&site=qq&menu=yes" target="_blank" color="#666666">Xingye：993843278</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 阿里巴巴 College. Designed and Developed by Mr. 星野.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>\''}
+2019-12-31 21:49:31 - INFO - 邮件发送成功
