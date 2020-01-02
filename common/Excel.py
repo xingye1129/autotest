@@ -1,7 +1,6 @@
 #coding:utf8
 import os
-import xlwt
-import xlrd
+import xlwt,xlrd
 from xlutils.copy import copy
 
 
